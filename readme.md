@@ -15,5 +15,5 @@ smtplib.SMTP_SSL('smtp.yandex.com',465)
 ******
 > ** You need to edit the information with the editor.
 ** Continuing to be developed
-** Soon you will be able to enter information through the interface and create your list more easily. :tw-1f60d: :tw-1f607:
+** Soon you will be able to enter information through the interface and create your list more easily.
 ##### See you soon
