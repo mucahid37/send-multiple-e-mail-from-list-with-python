@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 #from email.mime.base import MIMEBase 
 
 #The mail addresses and  password
-sender_address = 'xxxx@xxxxxx.com' 
+sender_address = 'xxxxx@xxxxxx.com' 
 sender_pass = 'xxxxx'
 
 #create mail html content list from html file
