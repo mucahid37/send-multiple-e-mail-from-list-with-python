@@ -1,2 +1,2 @@
-gokhan@creatonstudio.com
-batuhan@creatonstudio.com
+mail1@example.com
+mail2@example.com
