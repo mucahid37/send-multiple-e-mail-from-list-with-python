@@ -1,4 +1,4 @@
-# Send-Multiple-Mail-From-List-With-Python
+# Send Multiple Mail From List With Python
 #### You can send multiple e-mail using HTML themes with Python.
 
 > Here is the e-mail information to be sent.
